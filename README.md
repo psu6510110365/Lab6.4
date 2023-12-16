@@ -1,4 +1,6 @@
-_This repo is archived. If you are looking for the latest, check out [open-sauced/insights](https://github.com/open-sauced/insights) or [open-sauced/hot](https://github.com/open-sauced/hot)._
+Checkpoint 6.4
+Student id : 6510110365
+Name : Phuritthaya Khundaeng
 
 <div align="center">
   <br>
